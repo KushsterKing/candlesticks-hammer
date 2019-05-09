@@ -38,7 +38,7 @@ To run the project and server in watch node <br>
 node --experimental-modules app.mjs
 ```
 
-To see results hit the following api(s)
+To see results hit the following api(s) 
 ```
 http://localhost:3000/
 
