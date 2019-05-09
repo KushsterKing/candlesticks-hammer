@@ -11,4 +11,3 @@ const CandleSticks = new Schema({
 });
 
 export default mongoose.model('CandleSticks', CandleSticks );
-
