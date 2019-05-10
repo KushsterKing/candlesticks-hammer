@@ -15,7 +15,7 @@ mongod --version # to check if mongodb is not installed
 # if mongod is not installed run this else skip
 
 brew update
-brew install 11.6
+brew install mongodb
 
 # Create the “db” directory. This is where the Mongo data files will live. 
 mkdir -p /data/db
